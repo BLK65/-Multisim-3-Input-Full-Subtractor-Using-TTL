@@ -1,1 +1,3 @@
-# 3-Input-Full-Subtractor-Using-TTL-Logic
+# 3 Input Full Subtractor Using TTL in Multisim
+
+This project aims to showcase the implementation of a full subtractor circuit using TTL (Transistor-Transistor Logic) gates such as AND, OR, XOR, and NOR in the Multisim simulation environment. The project includes a detailed description of all the components used in the circuit, including their specifications and functions. The truth tables for each gate (AND, OR, XOR, NOR) are provided to illustrate their logical operations within the circuit. Additionally, the project offers a comprehensive transistor truth table for the full subtractor, giving users insight into the behavior of the circuit in various input scenarios. This resource serves as a valuable learning tool for those interested in digital logic design, providing hands-on experience with Multisim simulation and a thorough understanding of the components and their interactions in a 3-input full subtractor circuit.
